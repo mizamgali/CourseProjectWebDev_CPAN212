@@ -1,0 +1,18 @@
+{
+  "name": "event-ticketing-backend",
+  "version": "1.0.0",
+  "description": "Phase I Backend Foundation - Event Management & Ticketing System",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "helmet": "^7.1.0",
+    "morgan": "^1.10.0"
+  }
+}
