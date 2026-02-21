@@ -143,25 +143,6 @@ x-user-role: organizer
 
 ---
 
-## Screenshots (Phase I Testing)
-
-### Health Endpoint
-![Health](screenshots/Postman1.jpeg)
-
-### Events List
-![Events List](screenshots/Postman2.jpeg)
-
-### Create Event
-![Create Event](screenshots/Postman3.jpeg)
-
-### Add Ticket Type
-![Add Ticket](screenshots/Postman4.jpeg)
-
-### Publish Event
-![Publish](screenshots/Postman5.jpeg)
-
----
-
 ## Status
 
 Phase I – Backend Foundation - Complete  
