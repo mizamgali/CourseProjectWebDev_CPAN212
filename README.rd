@@ -1,9 +1,9 @@
 Group Members:
-Mirshod Gaybullaev
-Malika Mizamgali
+Mirshod Gaybullaev 
+Malika Mizamgaliyeva
 Kirtan Nabvjot Singh
 Kirtan Vaghela
-Gurpal 
+Gurpal Singh
 
 # Event Ticketing Backend – Phase I
 
