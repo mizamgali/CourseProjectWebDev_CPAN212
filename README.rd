@@ -1,9 +1,9 @@
 Group Members:
-Mirshod Gaybullaev 
-Malika Mizamgaliyeva
-Kirtan Nabvjot Singh
-Kirtan Vaghela
-Gurpal Singh
+Mirshod Gaybullaev  N01731141
+Malika Mizamgaliyeva N01737493
+Navjot Singh N01746125
+Kirtan Vaghela N01742662
+Gurpal Singh N01731742
 
 # Event Ticketing Backend – Phase I
 
