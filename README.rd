@@ -5,12 +5,16 @@ Navjot Singh N01746125
 Kirtan Vaghela N01742662
 Gurpal Singh N01731742
 
-# Event Ticketing Backend – Phase I
+# Insurance Platform – Full Stack Application
 
 ## Overview
-This project implements the Phase I backend foundation for an Event Ticketing System.  
-It provides core REST API endpoints for managing events and ticket types using an in-memory data store (no database yet).
+This project implements a full-stack Insurance Management Platform developed across multiple phases.  
+The system provides secure RESTful APIs and a React frontend for managing insurance operations such as policies, claims, payments, documents, and notifications.
 
+The backend is built using Node.js, Express.js, and MongoDB, while the frontend is developed using React.  
+The application supports role-based access control with different user roles including customer, agent, and admin.
+
+The platform demonstrates full frontend–backend integration, secure authentication using JSON Web Tokens (JWT), and persistent data storage.
 The backend is built with:
 
 - Node.js
